@@ -1,3 +1,9 @@
+# 0、安装使用
+
+```Bash
+pip install BusServoControl
+```
+
 # 1、协议讲解
 
 |  协议头   |       舵机ID        | 数据长度 |  指令值  | 检验值 |
